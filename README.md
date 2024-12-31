@@ -1,5 +1,5 @@
 # SQLearning
-Practice SQL coding in SQL zoo.
+Practice SQL coding in SQLZoo.
 
 **SQL Tutorial**
 1. [0 SELECT basics](https://github.com/sokqi918/SQLearning/blob/main/SQL%20coding/0%20SELECT%20basics.sql)
