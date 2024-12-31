@@ -1,2 +1,5 @@
 # SQLearning
-Practice SQL to ensure I won't forget it easily.
+Practice SQL coding to ensure I won't forget it easily.
+
+*SQL Tutorial*
+
