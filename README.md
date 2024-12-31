@@ -11,3 +11,6 @@ Practice SQL coding in SQLZoo.
 7. [6 JOIN](https://github.com/sokqi918/SQLearning/blob/main/SQL%20coding/6%20JOIN.sql)
 8. [7 More JOIN operations](https://github.com/sokqi918/SQLearning/blob/main/SQL%20coding/7%20More%20JOIN%20operations.sql)
 9. [8 Using Null](https://github.com/sokqi918/SQLearning/blob/main/SQL%20coding/8%20Using%20Null.sql)
+10. [8+ Numeric Examples](https://github.com/sokqi918/SQLZoo-Learning/blob/main/SQL%20coding/8%2B%20Numeric%20Examples.sql)
+11. [9+ COVID 19](https://github.com/sokqi918/SQLZoo-Learning/blob/main/SQL%20coding/9%2B%20COVID%2019.sql)
+12. [9- Window function](https://github.com/sokqi918/SQLZoo-Learning/blob/main/SQL%20coding/9-%20Window%20function.sql)
